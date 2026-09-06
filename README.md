@@ -61,6 +61,7 @@ The analysis identified several factors that were particularly important for pre
 Feature importance indicates which variables were most useful to the model for predicting ADR. It does not imply that these factors directly cause changes in hotel prices.
 
 <b>Project structure</b>
+
 hotel_adr_analysis.ipynb
 
 The notebook contains the complete analysis, from data preprocessing and exploratory data analysis to model training, evaluation and interpretation.
