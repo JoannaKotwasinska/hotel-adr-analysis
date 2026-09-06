@@ -35,16 +35,15 @@ The project includes:
 - hyperparameter tuning,
 - model evaluation,
 - feature importance analysis.
-- 
+
 Model
 
 The final model is a tuned Decision Tree Regressor.
 
-Test set performance
-Metric	Score
-MAE	10.98
-RMSE	18.71
-R²	0.8323
+Test set performance:
+- MAE	10.98
+- RMSE	18.71
+- R²	0.8323
 
 The model achieved an R² of 0.8323, meaning that it explains approximately 83% of the variance in ADR on the test set.
 
