@@ -1,4 +1,4 @@
-Hotel ADR Analysis
+<br>Hotel ADR Analysis<br>
 Project overview
 
 This project analyzes hotel reservation data to identify the main factors associated with Average Daily Rate (ADR) — the average daily price of a hotel room.
