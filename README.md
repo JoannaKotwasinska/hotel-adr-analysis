@@ -1,11 +1,12 @@
 <b>Hotel ADR Analysis</b>
+
 Project overview
 
 This project analyzes hotel reservation data to identify the main factors associated with Average Daily Rate (ADR) — the average daily price of a hotel room.
 
 The project combines exploratory data analysis with machine learning to investigate which reservation characteristics have the strongest relationship with ADR.
 
-Objective
+<b>Objective</b>
 
 The main objectives of the project are to:
 
@@ -14,7 +15,7 @@ The main objectives of the project are to:
 - build a regression model to predict ADR,
 - evaluate the model's performance.
 
-Dataset
+<b>Dataset</b>
 
 The analysis is based on hotel reservation data covering bookings from two hotel types:
 - City Hotel
@@ -22,7 +23,7 @@ The analysis is based on hotel reservation data covering bookings from two hotel
 
 The dataset contains information about booking characteristics, stay details, customer information and other reservation-related features.
 
-Analysis
+<b>Analysis</b>
 
 The project includes:
 
@@ -36,7 +37,7 @@ The project includes:
 - model evaluation,
 - feature importance analysis.
 
-Model
+<b>Model</b>
 
 The final model is a tuned Decision Tree Regressor.
 
@@ -47,7 +48,7 @@ Test set performance:
 
 The model achieved an R² of 0.8323, meaning that it explains approximately 83% of the variance in ADR on the test set.
 
-Key findings
+<b>Key findings</b>
 
 The analysis identified several factors that were particularly important for predicting ADR:
 
@@ -59,12 +60,12 @@ The analysis identified several factors that were particularly important for pre
 
 Feature importance indicates which variables were most useful to the model for predicting ADR. It does not imply that these factors directly cause changes in hotel prices.
 
-Project structure
+<b>Project structure</b>
 hotel_adr_analysis.ipynb
 
 The notebook contains the complete analysis, from data preprocessing and exploratory data analysis to model training, evaluation and interpretation.
 
-Tools
+<b>Tools</b>
 - Python
 - pandas
 - NumPy
@@ -72,7 +73,7 @@ Tools
 - seaborn
 - scikit-learn
   
-How to explore the project
+<b>How to explore the project</b>
 
 The complete analysis is available in the Google Colab notebook:
 
